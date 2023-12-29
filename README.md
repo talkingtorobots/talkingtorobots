@@ -1,5 +1,6 @@
 ### Hi there 👋
 
+Welcome to the CLAW Lab's website repository.  It's mostly just links to papers and such.
 <!--
 **talkingtorobots/talkingtorobots** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
